@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/getchili/.github/main/profile/logo-500.png" width="120" alt="Chili">
+    <img src="https://getchili.github.io/getchili/logo.svg" width="120" alt="Chili">
 </p>
 
 <h1 align="center">Chili</h1>
